@@ -1,0 +1,68 @@
+2024-06-09 14:31:45 [I] - ***********************************************
+2024-06-09 14:31:45 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:31:45 [I] - start extract title
+2024-06-09 14:31:45 [I] - title extract success
+2024-06-09 14:31:45 [I] - start extract authors
+2024-06-09 14:31:45 [I] - authors extract success
+2024-06-09 14:31:45 [I] - start extract abstract
+2024-06-09 14:31:45 [I] - abstract extract success
+2024-06-09 14:31:45 [I] - start extract keyWords
+2024-06-09 14:31:45 [I] - keyWords extract success
+2024-06-09 14:31:45 [I] - start extract catalogs
+2024-06-09 14:31:45 [I] - catalogs extract success
+2024-06-09 14:31:45 [I] - ***********************************************
+2024-06-09 14:36:07 [I] - ***********************************************
+2024-06-09 14:36:07 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:36:07 [I] - start extract title
+2024-06-09 14:36:07 [I] - title extract fail
+2024-06-09 14:36:07 [I] - start extract authors
+2024-06-09 14:36:07 [I] - authors extract fail
+2024-06-09 14:36:07 [I] - start extract abstract
+2024-06-09 14:36:07 [I] - abstract extract fail
+2024-06-09 14:36:07 [I] - start extract keyWords
+2024-06-09 14:36:07 [I] - keyWords extract fail
+2024-06-09 14:36:07 [I] - start extract catalogs
+2024-06-09 14:36:07 [I] - catalogs extract fail
+2024-06-09 14:36:07 [I] - ***********************************************
+2024-06-09 14:37:33 [I] - ***********************************************
+2024-06-09 14:37:33 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:37:33 [I] - 创建辅助阅读空节点
+2024-06-09 14:42:18 [I] - ***********************************************
+2024-06-09 14:42:18 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:42:18 [I] - start extract title
+2024-06-09 14:42:18 [I] - title extract success
+2024-06-09 14:42:18 [I] - start extract authors
+2024-06-09 14:42:18 [I] - authors extract success
+2024-06-09 14:42:18 [I] - start extract abstract
+2024-06-09 14:42:18 [I] - abstract extract success
+2024-06-09 14:42:18 [I] - start extract keyWords
+2024-06-09 14:42:18 [I] - keyWords extract success
+2024-06-09 14:42:18 [I] - start extract catalogs
+2024-06-09 14:42:18 [I] - catalogs extract success
+2024-06-09 14:42:18 [I] - ***********************************************
+2024-06-09 14:57:58 [I] - ***********************************************
+2024-06-09 14:57:58 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:57:58 [I] - start extract title
+2024-06-09 14:57:58 [I] - title extract success
+2024-06-09 14:57:58 [I] - start extract authors
+2024-06-09 14:57:58 [I] - authors extract success
+2024-06-09 14:57:58 [I] - start extract abstract
+2024-06-09 14:57:58 [I] - abstract extract success
+2024-06-09 14:57:58 [I] - start extract keyWords
+2024-06-09 14:57:58 [I] - keyWords extract success
+2024-06-09 14:57:58 [I] - start extract catalogs
+2024-06-09 14:57:58 [I] - catalogs extract fail
+2024-06-09 14:57:58 [I] - ***********************************************
+2024-06-09 14:59:48 [I] - ***********************************************
+2024-06-09 14:59:48 [I] - 提取方式二:传入参数为CMarkup类型
+2024-06-09 14:59:48 [I] - start extract title
+2024-06-09 14:59:48 [I] - title extract success
+2024-06-09 14:59:48 [I] - start extract authors
+2024-06-09 14:59:48 [I] - authors extract fail
+2024-06-09 14:59:48 [I] - start extract abstract
+2024-06-09 14:59:48 [I] - abstract extract success
+2024-06-09 14:59:48 [I] - start extract keyWords
+2024-06-09 14:59:48 [I] - keyWords extract success
+2024-06-09 14:59:48 [I] - start extract catalogs
+2024-06-09 14:59:48 [I] - catalogs extract success
+2024-06-09 14:59:48 [I] - ***********************************************
