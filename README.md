@@ -32,7 +32,7 @@ XiaomiSu7_git/
 │   ├── 04_clustering_analysis.ipynb         # 聚类分析
 │   ├── 05_classification_models.ipynb       # 分类模型
 │   └── 06_comment_quality.ipynb             # 评论质量分析
-├── src/                         # 源代码
+├── src/                         
 │   ├── __init__.py
 │   └── crawler.py               # 爬虫代码
 ├── outputs/                     # 输出结果
@@ -41,8 +41,6 @@ XiaomiSu7_git/
 │   │   ├── sentiment/           # 情感分析图表
 │   │   ├── clustering/          # 聚类分析图表
 │   │   └── quality/             # 质量分析图表
-│   └── models/                  # 训练的模型
-└── logs/                        # 日志文件
 ```
 
 ## 环境配置
@@ -68,7 +66,7 @@ pip install -r requirements.txt
 python src/crawler.py
 ```
 
-**注意**：需要配置有效的微博Cookie才能运行爬虫。
+**注意**：需要更新最新有效的微博Cookie才能运行爬虫。
 
 ### 2. 数据分析流程
 
@@ -157,7 +155,7 @@ python src/crawler.py
 - 高频词：小米、雷总、汽车、SU7等
 - 主要关注点：外观设计、性能、价格、产能等
 
-## 技术栈
+## 包
 
 - **数据爬取**: requests, BeautifulSoup
 - **数据处理**: pandas, numpy
@@ -165,17 +163,3 @@ python src/crawler.py
 - **机器学习**: scikit-learn, imblearn
 - **深度学习**: sklearn.neural_network
 - **可视化**: matplotlib, seaborn, wordcloud
-
-## 注意事项
-
-1. 爬虫代码中的Cookie需要自行配置，已移除敏感信息
-2. 路径配置已改为相对路径，适配不同操作系统
-3. 建议在虚拟环境中运行项目
-
-## 作者
-
-大数据2102班 - 彭弋桐
-
-## 许可证
-
-本项目仅用于学习和研究目的。
