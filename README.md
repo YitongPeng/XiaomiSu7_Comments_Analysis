@@ -76,28 +76,20 @@ python src/crawler.py
    - 数据清洗
    - 去重去空值
    - 中文分词
-
 2. **词频分析** (`02_wordfrequency_wordcloud.ipynb`)
    - 高频词统计
    - 词云可视化
    - 评论长度分布
-
 3. **情感分析** (`03_sentiment_analysis.ipynb`)
    - 基于词典的情感打分
    - 否定词修正
    - 神经网络和贝叶斯分类模型
-
-4. **聚类分析** (`04_clustering_analysis.ipynb`)
+4. **文本向量化** (`04_clustering_analysis.ipynb`)
    - TF-IDF向量化
-   - KMeans聚类
-   - DBSCAN聚类
-   - 余弦相似度分析
-
-5. **分类模型** (`05_classification_models.ipynb`)
+5. **模型** (`05_classification_models.ipynb`)
    - 逻辑回归
    - 随机森林
    - 特征重要性分析
-
 6. **评论质量分析** (`06_comment_quality.ipynb`)
    - 评论趋势分析
    - 时间序列分析
@@ -118,12 +110,6 @@ python src/crawler.py
 - 否定词修正算法
 - 情感得分计算
 - 神经网络分类（准确率81%+）
-
-### 聚类分析
-- KMeans聚类
-- DBSCAN密度聚类
-- 余弦相似度计算
-- 聚类效果可视化
 
 ### 可视化
 - 词云图
@@ -161,5 +147,14 @@ python src/crawler.py
 - **数据处理**: pandas, numpy
 - **文本处理**: jieba, re
 - **机器学习**: scikit-learn, imblearn
-- **深度学习**: sklearn.neural_network
 - **可视化**: matplotlib, seaborn, wordcloud
+
+## 注意事项
+
+1. 爬虫代码中的Cookie需要自行配置，已移除敏感信息
+2. 路径配置已改为相对路径，适配不同操作系统
+3. 建议在虚拟环境中运行项目
+
+## 许可证
+
+本项目仅用于学习和研究目的。
